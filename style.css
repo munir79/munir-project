@@ -1,0 +1,205 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.hero-image {
+    background-image: url("images/donation4.jpg");
+    background-color: #cccccc;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+.botton{
+    background-color: rgb(248, 148, 9);
+    text-align: center;
+    font-size: 12px;
+    margin-left: 43%;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 70px;
+    font-weight: bold;
+    height: 30px;
+    border-radius: 7%;
+
+    
+    
+}
+
+p{
+   padding-top: 30px;
+    text-align: center;
+}
+
+
+.body{
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-top: 80px;
+}
+
+.body-title{
+    text-align: center;
+    padding-top: 30px;
+    font-weight: bold;
+    font-size: 47px;
+}
+.body-pra{
+    padding-top: 0%;
+    margin-top: 0%;
+   
+}
+
+.box1{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: #f0f0f0;
+    margin-left: 10px;
+}
+.box2{
+    width: 100px;
+    height: 100px;
+    float: left;
+    color: red;
+    background-color: #ffe6e6;
+    border: solid;
+    margin-left: 10px;
+
+}
+
+.box3{
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: #f0f0f0;
+    margin-left: 10px;
+}
+
+.box4 {
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: #f0f0f0;
+    margin-left: 10px;
+
+}
+
+.box5{
+    width: 100px;
+    height: 100px;
+    background-color: #f0f0f0;
+    margin-left: 10px;
+    
+   
+}   
+
+.box{
+    text-align: center;
+}
+
+.Taka{
+    color: #cccccc;
+}
+
+.boxx {
+    padding: 5Px;
+    width: 300px;
+    
+    height: 300px;
+    float: left;
+    background-color: #CCCCFF;
+    margin-left: 20px;
+
+}
+
+.boxx-1{
+    padding: 5Px;
+    width: 300px;
+    
+    height: 300px;
+    float: left;
+    background-color: #9FE2BF;
+    margin-left: 20px;
+
+}
+
+.boxx-2 {
+    padding: 5Px;
+    width: 300px;
+    height: 300px;
+    float: left;
+    background-color: #F9E79F;
+    margin-left: 20px;
+
+}
+
+.boot{
+    margin-left: 17%;
+    margin-right: 15%;
+}
+
+.imgg1{
+    width: 30%;
+    height: 30%;
+    
+}
+
+.boot-1{
+    margin-top: 0%;
+    padding-top: 0%;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.boot-2 {
+    padding: 15px;
+    
+}
+
+.imgg {
+    padding-left: 15px;
+    padding-top: 15px;
+    width: 30%;
+    height: 30%;
+
+}
+
+.footer{
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    overflow: hidden;
+    margin-top: 30%;
+}
+
+.monir{
+    text-align: center;
+    color: red;
+    
+}
+
+.monir1 {
+    text-align: center;
+    color: rgb(244, 244, 244);
+    padding-top: 0%;
+
+}
